@@ -1,2 +1,2 @@
 # online-catalog
-Widget catalog web application using angualrjs
+Widget catalog web application using angularjs
